@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "spain",
+    "name": "Іспанія",
+    "iso": "ESP",
+    "region": "Європа",
+    "center": [
+      -3.7,
+      40.4
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 48462.0,
+        "page": 9
+      },
+      "institutions": {
+        "v": 71.0,
+        "page": 9
+      },
+      "founder_now": {
+        "v": 12.0,
+        "page": 9
+      },
+      "founder5": {
+        "v": 21.4,
+        "page": 9
+      },
+      "nascent": {
+        "v": 9.8,
+        "page": 9
+      },
+      "active": {
+        "v": 2.6,
+        "page": 10
+      },
+      "no_course": {
+        "v": 68.1,
+        "page": 10
+      },
+      "climate": {
+        "v": 4.1,
+        "page": 10
+      },
+      "female": {
+        "v": 59.9,
+        "page": 46
+      },
+      "bachelor": {
+        "v": 79.2,
+        "page": 47
+      },
+      "elective": {
+        "v": 22.6,
+        "page": 37
+      },
+      "compulsory": {
+        "v": 10.3,
+        "page": 37
+      },
+      "program": {
+        "v": 3.1,
+        "page": 37
+      },
+      "gap": {
+        "v": 9.4,
+        "page": 9,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "spain-2025-es",
+        "country": "SPAIN",
+        "survey_year": 2025,
+        "release": "2026-10-29",
+        "language": "es",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Spain_es.pdf",
+        "file": "reports/spain-2025-es.pdf",
+        "bytes": 3973991,
+        "pages": 59,
+        "sha256": "608db4a858adc8e26ba05f933828b507cc14a34f2e3cf9ec0b8f90800517a8d8"
+      }
+    ],
+    "main": {
+      "id": "spain-2025-es",
+      "country": "SPAIN",
+      "survey_year": 2025,
+      "release": "2026-10-29",
+      "language": "es",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Spain_es.pdf",
+      "file": "reports/spain-2025-es.pdf",
+      "bytes": 3973991,
+      "pages": 59,
+      "sha256": "608db4a858adc8e26ba05f933828b507cc14a34f2e3cf9ec0b8f90800517a8d8"
+    },
+    "notes": "Іспанський звіт додано на сайт 29.10.2026. Частку чинних бізнесів без співзасновників не внесено: 57,8% на с. 26 стосується майбутніх підприємців."
+  },
+  {
+    "id": "india",
+    "name": "Індія",
+    "iso": "IND",
+    "region": "Азія",
+    "center": [
+      78.9,
+      22.6
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 25783.0,
+        "page": 23
+      },
+      "founder_now": {
+        "v": 16.2,
+        "page": 26
+      },
+      "founder5": {
+        "v": 29.0,
+        "page": 25
+      },
+      "nascent": {
+        "v": 14.1,
+        "page": 31
+      },
+      "active": {
+        "v": 7.8,
+        "page": 31
+      },
+      "female": {
+        "v": 42.0,
+        "page": 23
+      },
+      "bachelor": {
+        "v": 76.0,
+        "page": 23
+      },
+      "no_course": {
+        "v": 48.7,
+        "page": 60
+      },
+      "climate": {
+        "v": 4.58,
+        "page": 58
+      },
+      "active_registered": {
+        "v": 58.0,
+        "page": 41
+      },
+      "active_solo": {
+        "v": 52.0,
+        "page": 41
+      },
+      "gap": {
+        "v": 12.8,
+        "page": 25,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "india-2025-en",
+        "country": "INDIA",
+        "survey_year": 2025,
+        "release": "2026-10-16",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_India.pdf",
+        "file": "reports/india-2025-en.pdf",
+        "bytes": 24208022,
+        "pages": 112,
+        "sha256": "3aed59c9cd299119c0accaecd804956da4c88ae55547e19b59973943c1e955f2"
+      }
+    ],
+    "main": {
+      "id": "india-2025-en",
+      "country": "INDIA",
+      "survey_year": 2025,
+      "release": "2026-10-16",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_India.pdf",
+      "file": "reports/india-2025-en.pdf",
+      "bytes": 24208022,
+      "pages": 112,
+      "sha256": "3aed59c9cd299119c0accaecd804956da4c88ae55547e19b59973943c1e955f2"
+    },
+    "notes": "На с. 60 освіту подано за найвищим рівнем і з пропущеними відповідями: 48,7% без курсу від усієї вибірки. На с. 25 намір через 5 років округлено до 29%. Демографічні значення також округлені авторами."
+  },
+  {
+    "id": "chile",
+    "name": "Чилі",
+    "iso": "CHL",
+    "region": "Південна Америка",
+    "center": [
+      -71,
+      -33
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 5425.0,
+        "page": 23
+      },
+      "female": {
+        "v": 47.6,
+        "page": 23
+      },
+      "bachelor": {
+        "v": 96.7,
+        "page": 24
+      },
+      "age": {
+        "v": 22.0,
+        "page": 24
+      },
+      "founder_now": {
+        "v": 13.4,
+        "page": 14
+      },
+      "founder5": {
+        "v": 27.6,
+        "page": 14
+      },
+      "nascent": {
+        "v": 26.2,
+        "page": 14
+      },
+      "active": {
+        "v": 7.1,
+        "page": 15
+      },
+      "no_course": {
+        "v": 56.5,
+        "page": 14
+      },
+      "nascent_during": {
+        "v": 37.4,
+        "page": 14
+      },
+      "gap": {
+        "v": 14.2,
+        "page": 14,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "chile-2025-es",
+        "country": "CHILE",
+        "survey_year": 2025,
+        "release": "2026-10-15",
+        "language": "es",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Chile.pdf",
+        "file": "reports/chile-2025-es.pdf",
+        "bytes": 3219651,
+        "pages": 69,
+        "sha256": "f37f12f472147b17e8737f8a74426e43580a94d727a52c09c87e642b271abbf3"
+      }
+    ],
+    "main": {
+      "id": "chile-2025-es",
+      "country": "CHILE",
+      "survey_year": 2025,
+      "release": "2026-10-15",
+      "language": "es",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Chile.pdf",
+      "file": "reports/chile-2025-es.pdf",
+      "bytes": 3219651,
+      "pages": 69,
+      "sha256": "f37f12f472147b17e8737f8a74426e43580a94d727a52c09c87e642b271abbf3"
+    },
+    "notes": ""
+  },
+  {
+    "id": "greece",
+    "name": "Греція",
+    "iso": "GRC",
+    "region": "Європа",
+    "center": [
+      23.7,
+      38
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 1051.0,
+        "page": 6
+      },
+      "institutions": {
+        "v": 15.0,
+        "page": 6
+      },
+      "female": {
+        "v": 64.7,
+        "page": 6
+      },
+      "bachelor": {
+        "v": 77.4,
+        "page": 6
+      },
+      "age": {
+        "v": 26.5,
+        "page": 6
+      },
+      "founder_now": {
+        "v": 16.3,
+        "page": 8
+      },
+      "founder5": {
+        "v": 20.9,
+        "page": 8
+      },
+      "nascent": {
+        "v": 5.1,
+        "page": 11
+      },
+      "active": {
+        "v": 5.2,
+        "page": 14
+      },
+      "no_course": {
+        "v": 59.1,
+        "page": 16
+      },
+      "elective": {
+        "v": 21.4,
+        "page": 16
+      },
+      "compulsory": {
+        "v": 19.9,
+        "page": 16
+      },
+      "program": {
+        "v": 3.7,
+        "page": 16
+      },
+      "climate": {
+        "v": 3.97,
+        "page": 19
+      },
+      "active_registered": {
+        "v": 81.5,
+        "page": 14
+      },
+      "active_solo": {
+        "v": 43.4,
+        "page": 14
+      },
+      "gap": {
+        "v": 4.6,
+        "page": 8,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "greece-2025-en",
+        "country": "GREECE",
+        "survey_year": 2025,
+        "release": "2026-10-05",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Greece.pdf",
+        "file": "reports/greece-2025-en.pdf",
+        "bytes": 1743415,
+        "pages": 26,
+        "sha256": "526e5e991acffd86abd49bb8aaab42f12dc25690b83e6e649cb482631f5c05b8"
+      }
+    ],
+    "main": {
+      "id": "greece-2025-en",
+      "country": "GREECE",
+      "survey_year": 2025,
+      "release": "2026-10-05",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Greece.pdf",
+      "file": "reports/greece-2025-en.pdf",
+      "bytes": 1743415,
+      "pages": 26,
+      "sha256": "526e5e991acffd86abd49bb8aaab42f12dc25690b83e6e649cb482631f5c05b8"
+    },
+    "notes": ""
+  },
+  {
+    "id": "belgium",
+    "name": "Бельгія",
+    "iso": "BEL",
+    "region": "Європа",
+    "center": [
+      4.7,
+      50.8
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 7971.0,
+        "page": 8
+      },
+      "institutions": {
+        "v": 53.0,
+        "page": 8
+      },
+      "female": {
+        "v": 60.33,
+        "page": 10
+      },
+      "bachelor": {
+        "v": 63.13,
+        "page": 12
+      },
+      "founder_now": {
+        "v": 9.99,
+        "page": 13
+      },
+      "founder5": {
+        "v": 26.16,
+        "page": 13
+      },
+      "nascent": {
+        "v": 5.46,
+        "page": 12
+      },
+      "active": {
+        "v": 4.43,
+        "page": 12
+      },
+      "no_course": {
+        "v": 67.13,
+        "page": 15
+      },
+      "elective": {
+        "v": 13.45,
+        "page": 15
+      },
+      "compulsory": {
+        "v": 19.38,
+        "page": 15
+      },
+      "program": {
+        "v": 6.79,
+        "page": 15
+      },
+      "family": {
+        "v": 31.99,
+        "page": 16
+      },
+      "gap": {
+        "v": 16.17,
+        "page": 13,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "belgium-2025-en",
+        "country": "BELGIUM",
+        "survey_year": 2025,
+        "release": "2026-09-30",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Belgium.pdf",
+        "file": "reports/belgium-2025-en.pdf",
+        "bytes": 2175409,
+        "pages": 35,
+        "sha256": "34d0ae6d4abb8b6e5d411fe1585fdfdb7c592cb448b41229b6a5413e0434e77c"
+      }
+    ],
+    "main": {
+      "id": "belgium-2025-en",
+      "country": "BELGIUM",
+      "survey_year": 2025,
+      "release": "2026-09-30",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Belgium.pdf",
+      "file": "reports/belgium-2025-en.pdf",
+      "bytes": 2175409,
+      "pages": 35,
+      "sha256": "34d0ae6d4abb8b6e5d411fe1585fdfdb7c592cb448b41229b6a5413e0434e77c"
+    },
+    "notes": "Використано очищену аналітичну вибірку N=7971, а не 8685 первинних відповідей. Розмір валідної бази залежить від показника."
+  },
+  {
+    "id": "paraguay",
+    "name": "Парагвай",
+    "iso": "PRY",
+    "region": "Південна Америка",
+    "center": [
+      -58.4,
+      -23.4
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 2699.0,
+        "page": 22
+      },
+      "institutions": {
+        "v": 29.0,
+        "page": 22
+      },
+      "female": {
+        "v": 56.86,
+        "page": 24
+      },
+      "bachelor": {
+        "v": 86.19,
+        "page": 24
+      },
+      "founder_now": {
+        "v": 35.64,
+        "page": 22
+      },
+      "founder5": {
+        "v": 46.02,
+        "page": 22
+      },
+      "nascent": {
+        "v": 34.2,
+        "page": 22
+      },
+      "active": {
+        "v": 15.97,
+        "page": 22
+      },
+      "no_course": {
+        "v": 36.94,
+        "page": 57
+      },
+      "elective": {
+        "v": 34.83,
+        "page": 57
+      },
+      "compulsory": {
+        "v": 19.49,
+        "page": 57
+      },
+      "program": {
+        "v": 6.97,
+        "page": 57
+      },
+      "climate": {
+        "v": 5.3,
+        "page": 58
+      },
+      "nascent_during": {
+        "v": 36.9,
+        "page": 38
+      },
+      "gap": {
+        "v": 10.38,
+        "page": 22,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "paraguay-2025-es",
+        "country": "PARAGUAY",
+        "survey_year": 2025,
+        "release": "2026-09-11",
+        "language": "es",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Paraguay.pdf",
+        "file": "reports/paraguay-2025-es.pdf",
+        "bytes": 4597391,
+        "pages": 72,
+        "sha256": "b784c05819f01d04de5a568b44c4a8ce5d0c9df4f71f5bb3d1769847d46bcf0d"
+      }
+    ],
+    "main": {
+      "id": "paraguay-2025-es",
+      "country": "PARAGUAY",
+      "survey_year": 2025,
+      "release": "2026-09-11",
+      "language": "es",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Paraguay.pdf",
+      "file": "reports/paraguay-2025-es.pdf",
+      "bytes": 4597391,
+      "pages": 72,
+      "sha256": "b784c05819f01d04de5a568b44c4a8ce5d0c9df4f71f5bb3d1769847d46bcf0d"
+    },
+    "notes": ""
+  },
+  {
+    "id": "hungary",
+    "name": "Угорщина",
+    "iso": "HUN",
+    "region": "Європа",
+    "center": [
+      19.5,
+      47.2
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 15015.0,
+        "page": 9
+      },
+      "institutions": {
+        "v": 21.0,
+        "page": 9
+      },
+      "female": {
+        "v": 60.0,
+        "page": 10
+      },
+      "bachelor": {
+        "v": 68.9,
+        "page": 10
+      },
+      "founder_now": {
+        "v": 12.5,
+        "page": 13
+      },
+      "founder5": {
+        "v": 28.9,
+        "page": 13
+      },
+      "nascent": {
+        "v": 13.5,
+        "page": 22
+      },
+      "active": {
+        "v": 5.4,
+        "page": 24
+      },
+      "family": {
+        "v": 30.1,
+        "page": 17
+      },
+      "climate": {
+        "v": 3.71,
+        "page": 27
+      },
+      "no_course": {
+        "v": 69.1,
+        "page": 27
+      },
+      "elective": {
+        "v": 17.8,
+        "page": 27
+      },
+      "compulsory": {
+        "v": 16.2,
+        "page": 27
+      },
+      "program": {
+        "v": 2.6,
+        "page": 27
+      },
+      "active_registered": {
+        "v": 82.5,
+        "page": 24
+      },
+      "active_solo": {
+        "v": 74.6,
+        "page": 25
+      },
+      "nascent_during": {
+        "v": 35.1,
+        "page": 22
+      },
+      "gap": {
+        "v": 16.4,
+        "page": 13,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "hungary-2025-en",
+        "country": "HUNGARY",
+        "survey_year": 2025,
+        "release": "2026-08-28",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Hungary.pdf",
+        "file": "reports/hungary-2025-en.pdf",
+        "bytes": 1475290,
+        "pages": 31,
+        "sha256": "a77909728b472c8a33c2be07e9a950ca1c53bf6d1019b3a8c36cba96aa089e47"
+      }
+    ],
+    "main": {
+      "id": "hungary-2025-en",
+      "country": "HUNGARY",
+      "survey_year": 2025,
+      "release": "2026-08-28",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Hungary.pdf",
+      "file": "reports/hungary-2025-en.pdf",
+      "bytes": 1475290,
+      "pages": 31,
+      "sha256": "a77909728b472c8a33c2be07e9a950ca1c53bf6d1019b3a8c36cba96aa089e47"
+    },
+    "notes": "Для намірів використано лише засновників: 12,5% і 28,9%. Підсумкові 14,1% і 31,4% включають також наступників бізнесу."
+  },
+  {
+    "id": "uruguay",
+    "name": "Уругвай",
+    "iso": "URY",
+    "region": "Південна Америка",
+    "center": [
+      -56,
+      -33
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 1596.0,
+        "page": 8
+      },
+      "female": {
+        "v": 62.47,
+        "page": 8
+      },
+      "bachelor": {
+        "v": 88.33,
+        "page": 8
+      },
+      "founder_now": {
+        "v": 22.68,
+        "page": 8
+      },
+      "founder5": {
+        "v": 34.09,
+        "page": 8
+      },
+      "nascent": {
+        "v": 18.17,
+        "page": 8
+      },
+      "active": {
+        "v": 7.46,
+        "page": 8
+      },
+      "climate": {
+        "v": 5.27,
+        "page": 8
+      },
+      "no_course": {
+        "v": 57.58,
+        "page": 32
+      },
+      "elective": {
+        "v": 21.93,
+        "page": 32
+      },
+      "compulsory": {
+        "v": 21.37,
+        "page": 32
+      },
+      "program": {
+        "v": 6.52,
+        "page": 32
+      },
+      "gap": {
+        "v": 11.41,
+        "page": 8,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "uruguay-2025-es",
+        "country": "URUGUAY",
+        "survey_year": 2025,
+        "release": "2026-08-27",
+        "language": "es",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Uruguay.pdf",
+        "file": "reports/uruguay-2025-es.pdf",
+        "bytes": 1400200,
+        "pages": 52,
+        "sha256": "7cf5f062799ca329e8fd0ec3c731abcb44875d1ec04c2275eec2915b5a6a5ba0"
+      }
+    ],
+    "main": {
+      "id": "uruguay-2025-es",
+      "country": "URUGUAY",
+      "survey_year": 2025,
+      "release": "2026-08-27",
+      "language": "es",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Uruguay.pdf",
+      "file": "reports/uruguay-2025-es.pdf",
+      "bytes": 1400200,
+      "pages": 52,
+      "sha256": "7cf5f062799ca329e8fd0ec3c731abcb44875d1ec04c2275eec2915b5a6a5ba0"
+    },
+    "notes": ""
+  },
+  {
+    "id": "russia",
+    "name": "Росія",
+    "iso": "RUS",
+    "region": "Європа / Азія",
+    "center": [
+      90,
+      58
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 1698.0,
+        "page": 12
+      },
+      "female": {
+        "v": 65.1,
+        "page": 12
+      },
+      "bachelor": {
+        "v": 72.9,
+        "page": 12
+      },
+      "age": {
+        "v": 20.0,
+        "page": 12
+      },
+      "founder_now": {
+        "v": 22.7,
+        "page": 15
+      },
+      "founder5": {
+        "v": 44.9,
+        "page": 15
+      },
+      "nascent": {
+        "v": 19.08,
+        "page": 24
+      },
+      "active": {
+        "v": 3.65,
+        "page": 24
+      },
+      "no_course": {
+        "v": 44.1,
+        "page": 21
+      },
+      "elective": {
+        "v": 17.5,
+        "page": 21
+      },
+      "compulsory": {
+        "v": 25.6,
+        "page": 21
+      },
+      "program": {
+        "v": 30.2,
+        "page": 21
+      },
+      "family": {
+        "v": 33.2,
+        "page": 5
+      },
+      "nascent_during": {
+        "v": 43.4,
+        "page": 24
+      },
+      "gap": {
+        "v": 22.2,
+        "page": 15,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "russia-2025-en",
+        "country": "RUSSIA",
+        "survey_year": 2025,
+        "release": "2026-08-20",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Russia.pdf",
+        "file": "reports/russia-2025-en.pdf",
+        "bytes": 1023866,
+        "pages": 36,
+        "sha256": "0c6a6a9f28abd63361e8e50f5ee484aec1a8a0046c61a9125b1035e0bfa38bc9"
+      }
+    ],
+    "main": {
+      "id": "russia-2025-en",
+      "country": "RUSSIA",
+      "survey_year": 2025,
+      "release": "2026-08-20",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Russia.pdf",
+      "file": "reports/russia-2025-en.pdf",
+      "bytes": 1023866,
+      "pages": 36,
+      "sha256": "0c6a6a9f28abd63361e8e50f5ee484aec1a8a0046c61a9125b1035e0bfa38bc9"
+    },
+    "notes": ""
+  },
+  {
+    "id": "philippines",
+    "name": "Філіппіни",
+    "iso": "PHL",
+    "region": "Азія",
+    "center": [
+      122,
+      12
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 669.0,
+        "page": 5
+      },
+      "female": {
+        "v": 54.0,
+        "page": 11
+      },
+      "bachelor": {
+        "v": 95.8,
+        "page": 11
+      },
+      "founder_now": {
+        "v": 14.2,
+        "page": 13
+      },
+      "founder5": {
+        "v": 38.4,
+        "page": 13
+      },
+      "nascent": {
+        "v": 15.4,
+        "page": 17
+      },
+      "active": {
+        "v": 8.2,
+        "page": 17
+      },
+      "no_course": {
+        "v": 33.3,
+        "page": 18
+      },
+      "elective": {
+        "v": 29.7,
+        "page": 18
+      },
+      "compulsory": {
+        "v": 42.5,
+        "page": 18
+      },
+      "program": {
+        "v": 16.9,
+        "page": 18
+      },
+      "gap": {
+        "v": 24.2,
+        "page": 13,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "philippines-2025-en",
+        "country": "PHILIPPINES",
+        "survey_year": 2025,
+        "release": "2026-08-06",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Philippines.pdf",
+        "file": "reports/philippines-2025-en.pdf",
+        "bytes": 4972704,
+        "pages": 75,
+        "sha256": "0e06bc3262209fec0464e6b5d19d79c552ae78b1dc3353b0d91dbafc8175570a"
+      }
+    ],
+    "main": {
+      "id": "philippines-2025-en",
+      "country": "PHILIPPINES",
+      "survey_year": 2025,
+      "release": "2026-08-06",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Philippines.pdf",
+      "file": "reports/philippines-2025-en.pdf",
+      "bytes": 4972704,
+      "pages": 75,
+      "sha256": "0e06bc3262209fec0464e6b5d19d79c552ae78b1dc3353b0d91dbafc8175570a"
+    },
+    "notes": ""
+  },
+  {
+    "id": "austria",
+    "name": "Австрія",
+    "iso": "AUT",
+    "region": "Європа",
+    "center": [
+      14.5,
+      47.5
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 2022.0,
+        "page": 10
+      },
+      "institutions": {
+        "v": 42.0,
+        "page": 10
+      },
+      "female": {
+        "v": 62.0,
+        "page": 11
+      },
+      "bachelor": {
+        "v": 52.0,
+        "page": 12
+      },
+      "age": {
+        "v": 26.4,
+        "page": 11
+      },
+      "founder_now": {
+        "v": 6.2,
+        "page": 39
+      },
+      "founder5": {
+        "v": 19.3,
+        "page": 39
+      },
+      "nascent": {
+        "v": 6.7,
+        "page": 47
+      },
+      "active": {
+        "v": 3.9,
+        "page": 47
+      },
+      "gap": {
+        "v": 13.1,
+        "page": 39,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "austria-2025-en",
+        "country": "AUSTRIA",
+        "survey_year": 2025,
+        "release": "2026-07-30",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_Austria.pdf",
+        "file": "reports/austria-2025-en.pdf",
+        "bytes": 1698287,
+        "pages": 66,
+        "sha256": "f71d377530926cecfdd024667051ccc99bb59f87233b523e396eded7559e19cb"
+      }
+    ],
+    "main": {
+      "id": "austria-2025-en",
+      "country": "AUSTRIA",
+      "survey_year": 2025,
+      "release": "2026-07-30",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_Austria.pdf",
+      "file": "reports/austria-2025-en.pdf",
+      "bytes": 1698287,
+      "pages": 66,
+      "sha256": "f71d377530926cecfdd024667051ccc99bb59f87233b523e396eded7559e19cb"
+    },
+    "notes": ""
+  },
+  {
+    "id": "new-zealand",
+    "name": "Нова Зеландія",
+    "iso": "NZL",
+    "region": "Океанія",
+    "center": [
+      173,
+      -41
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 4154.0,
+        "page": 4
+      },
+      "institutions": {
+        "v": 3.0,
+        "page": 4
+      },
+      "age": {
+        "v": 25.0,
+        "page": 4
+      },
+      "founder_now": {
+        "v": 6.5,
+        "page": 2
+      },
+      "founder5": {
+        "v": 20.7,
+        "page": 2
+      },
+      "nascent": {
+        "v": 11.7,
+        "page": 2
+      },
+      "active": {
+        "v": 3.8,
+        "page": 2
+      },
+      "no_course": {
+        "v": 83.4,
+        "page": 2
+      },
+      "gap": {
+        "v": 14.2,
+        "page": 2,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "new-zealand-2025-en",
+        "country": "NEW ZEALAND",
+        "survey_year": 2025,
+        "release": "2026-07-29",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_NewZealand.pdf",
+        "file": "reports/new-zealand-2025-en.pdf",
+        "bytes": 554734,
+        "pages": 15,
+        "sha256": "a9bf1b72f8fe9fb27dffa30902f813ad06f7554d42a18ea556e4b10e5fb7281d"
+      }
+    ],
+    "main": {
+      "id": "new-zealand-2025-en",
+      "country": "NEW ZEALAND",
+      "survey_year": 2025,
+      "release": "2026-07-29",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_NewZealand.pdf",
+      "file": "reports/new-zealand-2025-en.pdf",
+      "bytes": 554734,
+      "pages": 15,
+      "sha256": "a9bf1b72f8fe9fb27dffa30902f813ad06f7554d42a18ea556e4b10e5fb7281d"
+    },
+    "notes": ""
+  },
+  {
+    "id": "caribbean",
+    "name": "Карибський регіон",
+    "iso": "JAM",
+    "region": "Північна Америка",
+    "center": [
+      -77.3,
+      18.1
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 558.0,
+        "page": 6
+      },
+      "female": {
+        "v": 68.1,
+        "page": 6
+      },
+      "bachelor": {
+        "v": 89.4,
+        "page": 8
+      },
+      "founder_now": {
+        "v": 20.1,
+        "page": 9
+      },
+      "founder5": {
+        "v": 55.0,
+        "page": 9
+      },
+      "nascent": {
+        "v": 11.8,
+        "page": 13
+      },
+      "active": {
+        "v": 11.8,
+        "page": 23
+      },
+      "no_course": {
+        "v": 64.5,
+        "page": 11
+      },
+      "active_solo": {
+        "v": 65.1,
+        "page": 23
+      },
+      "gap": {
+        "v": 34.9,
+        "page": 9,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "caribbean-2025-en",
+        "country": "CARIBBEAN",
+        "survey_year": 2025,
+        "release": "2026-07-27",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_Caribbean.pdf",
+        "file": "reports/caribbean-2025-en.pdf",
+        "bytes": 1024837,
+        "pages": 26,
+        "sha256": "c5d6e2769f5fd981b7a897ac804ffa3ae66404a12dbd4f62a6de683a711645ef"
+      }
+    ],
+    "main": {
+      "id": "caribbean-2025-en",
+      "country": "CARIBBEAN",
+      "survey_year": 2025,
+      "release": "2026-07-27",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_Caribbean.pdf",
+      "file": "reports/caribbean-2025-en.pdf",
+      "bytes": 1024837,
+      "pages": 26,
+      "sha256": "c5d6e2769f5fd981b7a897ac804ffa3ae66404a12dbd4f62a6de683a711645ef"
+    },
+    "notes": "Спільна вибірка Ямайки та Антигуа і Барбуди; ці країни не мають окремих оцінок. Намір одразу: 20,1% з рисунка 6 і підсумку на с. 22; у тексті с. 9 помилково 31,2% (це наймана праця через 5 років). На с. 13 глобальні позначення active/nascent переплутано; обидві регіональні частки надруковано як 11,8%."
+  },
+  {
+    "id": "germany",
+    "name": "Німеччина",
+    "iso": "DEU",
+    "region": "Європа",
+    "center": [
+      10.4,
+      51
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 970.0,
+        "page": 6
+      },
+      "female": {
+        "v": 61.0,
+        "page": 6
+      },
+      "age": {
+        "v": 29.5,
+        "page": 6
+      },
+      "founder_now": {
+        "v": 10.6,
+        "page": 8
+      },
+      "founder5": {
+        "v": 25.4,
+        "page": 8
+      },
+      "nascent": {
+        "v": 9.6,
+        "page": 11
+      },
+      "active": {
+        "v": 5.8,
+        "page": 11
+      },
+      "active_solo": {
+        "v": 65.5,
+        "page": 14
+      },
+      "nascent_during": {
+        "v": 58.1,
+        "page": 13
+      },
+      "gap": {
+        "v": 14.8,
+        "page": 8,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "germany-2025-en",
+        "country": "GERMANY",
+        "survey_year": 2025,
+        "release": "2026-07-27",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_Germany.pdf",
+        "file": "reports/germany-2025-en.pdf",
+        "bytes": 733065,
+        "pages": 31,
+        "sha256": "94c2ae5fb0bd30fd5aaa495dd2b8c60756546773003bec7944d4dbc028b1fce5"
+      }
+    ],
+    "main": {
+      "id": "germany-2025-en",
+      "country": "GERMANY",
+      "survey_year": 2025,
+      "release": "2026-07-27",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_Germany.pdf",
+      "file": "reports/germany-2025-en.pdf",
+      "bytes": 733065,
+      "pages": 31,
+      "sha256": "94c2ae5fb0bd30fd5aaa495dd2b8c60756546773003bec7944d4dbc028b1fce5"
+    },
+    "notes": "57,4% вибірки — студенти IU; середній вік 29,5 року. Автори прямо застерігають щодо впливу складу вибірки."
+  },
+  {
+    "id": "czech-republic",
+    "name": "Чехія",
+    "iso": "CZE",
+    "region": "Європа",
+    "center": [
+      15.5,
+      49.8
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 1387.0,
+        "page": 8
+      },
+      "institutions": {
+        "v": 11.0,
+        "page": 8
+      },
+      "female": {
+        "v": 47.0,
+        "page": 10
+      },
+      "bachelor": {
+        "v": 70.4,
+        "page": 9
+      },
+      "founder_now": {
+        "v": 10.7,
+        "page": 46
+      },
+      "founder5": {
+        "v": 28.8,
+        "page": 46
+      },
+      "nascent": {
+        "v": 13.8,
+        "page": 14
+      },
+      "active": {
+        "v": 3.4,
+        "page": 14
+      },
+      "no_course": {
+        "v": 76.1,
+        "page": 27
+      },
+      "elective": {
+        "v": 12.5,
+        "page": 27
+      },
+      "compulsory": {
+        "v": 10.7,
+        "page": 27
+      },
+      "program": {
+        "v": 5.1,
+        "page": 27
+      },
+      "gap": {
+        "v": 18.1,
+        "page": 46,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "czech-republic-2025-en",
+        "country": "CZECH REPUBLIC",
+        "survey_year": 2025,
+        "release": "2026-07-27",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_CzechRep.pdf",
+        "file": "reports/czech-republic-2025-en.pdf",
+        "bytes": 1317894,
+        "pages": 51,
+        "sha256": "7c9a6a8fe80201a2f6ac4d44ddff7f6045b7313dc874a8cf81d2eeab821932d0"
+      }
+    ],
+    "main": {
+      "id": "czech-republic-2025-en",
+      "country": "CZECH REPUBLIC",
+      "survey_year": 2025,
+      "release": "2026-07-27",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS-Report_2025_CzechRep.pdf",
+      "file": "reports/czech-republic-2025-en.pdf",
+      "bytes": 1317894,
+      "pages": 51,
+      "sha256": "7c9a6a8fe80201a2f6ac4d44ddff7f6045b7313dc874a8cf81d2eeab821932d0"
+    },
+    "notes": ""
+  },
+  {
+    "id": "finland",
+    "name": "Фінляндія",
+    "iso": "FIN",
+    "region": "Європа",
+    "center": [
+      26,
+      64
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 668.0,
+        "page": 7
+      },
+      "institutions": {
+        "v": 14.0,
+        "page": 6
+      },
+      "female": {
+        "v": 52.8,
+        "page": 8
+      },
+      "bachelor": {
+        "v": 65.7,
+        "page": 8
+      },
+      "founder_now": {
+        "v": 12.1,
+        "page": 11
+      },
+      "founder5": {
+        "v": 25.0,
+        "page": 11
+      },
+      "nascent": {
+        "v": 13.6,
+        "page": 14
+      },
+      "active": {
+        "v": 4.9,
+        "page": 14
+      },
+      "family": {
+        "v": 22.3,
+        "page": 10
+      },
+      "gap": {
+        "v": 12.9,
+        "page": 11,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "finland-2025-en",
+        "country": "FINLAND",
+        "survey_year": 2025,
+        "release": "2026-07-01",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Finland.pdf",
+        "file": "reports/finland-2025-en.pdf",
+        "bytes": 310571,
+        "pages": 26,
+        "sha256": "d44e52a06f4c1ca69e1af678611b72c1e6512ae99d4b8240f746ab8c4a60e999"
+      }
+    ],
+    "main": {
+      "id": "finland-2025-en",
+      "country": "FINLAND",
+      "survey_year": 2025,
+      "release": "2026-07-01",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Finland.pdf",
+      "file": "reports/finland-2025-en.pdf",
+      "bytes": 310571,
+      "pages": 26,
+      "sha256": "d44e52a06f4c1ca69e1af678611b72c1e6512ae99d4b8240f746ab8c4a60e999"
+    },
+    "notes": ""
+  },
+  {
+    "id": "france",
+    "name": "Франція",
+    "iso": "FRA",
+    "region": "Європа",
+    "center": [
+      2.5,
+      47
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 1710.0,
+        "page": 7
+      },
+      "institutions": {
+        "v": 16.0,
+        "page": 7
+      },
+      "female": {
+        "v": 61.0,
+        "page": 8
+      },
+      "bachelor": {
+        "v": 36.9,
+        "page": 8
+      },
+      "age": {
+        "v": 21.6,
+        "page": 7
+      },
+      "founder_now": {
+        "v": 9.0,
+        "page": 11
+      },
+      "founder5": {
+        "v": 24.0,
+        "page": 11
+      },
+      "nascent": {
+        "v": 8.0,
+        "page": 9
+      },
+      "active": {
+        "v": 3.0,
+        "page": 9
+      },
+      "no_course": {
+        "v": 55.8,
+        "page": 14
+      },
+      "elective": {
+        "v": 15.1,
+        "page": 14
+      },
+      "compulsory": {
+        "v": 32.0,
+        "page": 14
+      },
+      "program": {
+        "v": 9.2,
+        "page": 14
+      },
+      "gap": {
+        "v": 15.0,
+        "page": 11,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "france-2025-en",
+        "country": "FRANCE",
+        "survey_year": 2025,
+        "release": "2026-07-01",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_France.pdf",
+        "file": "reports/france-2025-en.pdf",
+        "bytes": 988295,
+        "pages": 31,
+        "sha256": "830df10b9ca5e601b64184f2849bc005a6f3fbb71a625d983c8366c09558f277"
+      },
+      {
+        "id": "france-2025-fr",
+        "country": "FRANCE",
+        "survey_year": 2025,
+        "release": "2026-09-02",
+        "language": "fr",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_France_fr.pdf",
+        "file": "reports/france-2025-fr.pdf",
+        "bytes": 966773,
+        "pages": 34,
+        "sha256": "1d8f65072ce094cdf1406399974ca3d8ee528d0d738cbc9effee9b41da50b33f"
+      }
+    ],
+    "main": {
+      "id": "france-2025-en",
+      "country": "FRANCE",
+      "survey_year": 2025,
+      "release": "2026-07-01",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_France.pdf",
+      "file": "reports/france-2025-en.pdf",
+      "bytes": 988295,
+      "pages": 31,
+      "sha256": "830df10b9ca5e601b64184f2849bc005a6f3fbb71a625d983c8366c09558f277"
+    },
+    "notes": ""
+  },
+  {
+    "id": "dominican-republic",
+    "name": "Домініканська Республіка",
+    "iso": "DOM",
+    "region": "Північна Америка",
+    "center": [
+      -70.2,
+      18.9
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 366.0,
+        "page": 3
+      },
+      "institutions": {
+        "v": 6.0,
+        "page": 4
+      },
+      "female": {
+        "v": 63.1,
+        "page": 3
+      },
+      "bachelor": {
+        "v": 92.6,
+        "page": 5
+      },
+      "founder_now": {
+        "v": 20.2,
+        "page": 3
+      },
+      "founder5": {
+        "v": 41.8,
+        "page": 3
+      },
+      "nascent": {
+        "v": 19.7,
+        "page": 3
+      },
+      "active": {
+        "v": 6.6,
+        "page": 3
+      },
+      "family": {
+        "v": 47.0,
+        "page": 8
+      },
+      "gap": {
+        "v": 21.6,
+        "page": 3,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "dominican-republic-2025-es",
+        "country": "DOMINICAN REPUBLIC",
+        "survey_year": 2025,
+        "release": "2026-06-18",
+        "language": "es",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_DominicanRepublic.pdf",
+        "file": "reports/dominican-republic-2025-es.pdf",
+        "bytes": 1138612,
+        "pages": 14,
+        "sha256": "3b104b2a09c4d4d1f8073697e1c82523b00f0fd03a8882cb27afbfd929902c25"
+      }
+    ],
+    "main": {
+      "id": "dominican-republic-2025-es",
+      "country": "DOMINICAN REPUBLIC",
+      "survey_year": 2025,
+      "release": "2026-06-18",
+      "language": "es",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_DominicanRepublic.pdf",
+      "file": "reports/dominican-republic-2025-es.pdf",
+      "bytes": 1138612,
+      "pages": 14,
+      "sha256": "3b104b2a09c4d4d1f8073697e1c82523b00f0fd03a8882cb27afbfd929902c25"
+    },
+    "notes": ""
+  },
+  {
+    "id": "libya",
+    "name": "Лівія",
+    "iso": "LBY",
+    "region": "Африка",
+    "center": [
+      17,
+      27
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 159.0,
+        "page": 2
+      },
+      "female": {
+        "v": 28.9,
+        "page": 3
+      },
+      "bachelor": {
+        "v": 62.3,
+        "page": 3
+      },
+      "age": {
+        "v": 31.9,
+        "page": 2
+      },
+      "founder_now": {
+        "v": 5.0,
+        "page": 4
+      },
+      "founder5": {
+        "v": 15.7,
+        "page": 4
+      },
+      "nascent": {
+        "v": 16.4,
+        "page": 1
+      },
+      "climate": {
+        "v": 3.77,
+        "page": 6
+      },
+      "no_course": {
+        "v": 63.5,
+        "page": 6
+      },
+      "elective": {
+        "v": 22.0,
+        "page": 6
+      },
+      "compulsory": {
+        "v": 6.9,
+        "page": 6
+      },
+      "program": {
+        "v": 3.1,
+        "page": 6
+      },
+      "gap": {
+        "v": 10.7,
+        "page": 4,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "libya-2025-en",
+        "country": "LIBYA",
+        "survey_year": 2025,
+        "release": "2026-06-15",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Libya.pdf",
+        "file": "reports/libya-2025-en.pdf",
+        "bytes": 285091,
+        "pages": 12,
+        "sha256": "75064d1731d902b2d30ad53cda32f3b3bda5e26c6521cfb40bb42a45405344fa"
+      }
+    ],
+    "main": {
+      "id": "libya-2025-en",
+      "country": "LIBYA",
+      "survey_year": 2025,
+      "release": "2026-06-15",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Libya.pdf",
+      "file": "reports/libya-2025-en.pdf",
+      "bytes": 285091,
+      "pages": 12,
+      "sha256": "75064d1731d902b2d30ad53cda32f3b3bda5e26c6521cfb40bb42a45405344fa"
+    },
+    "notes": "Частку чинних підприємців не включено: у звіті є несумісні значення 17,0% (с. 1, 10) та 25,2% (с. 4). Клімат 3,77 — середнє національної вибірки; згадане 3,6 стосується іншої публікації. Середній вік має лише 80 валідних відповідей."
+  },
+  {
+    "id": "indonesia",
+    "name": "Індонезія",
+    "iso": "IDN",
+    "region": "Азія",
+    "center": [
+      117,
+      -3
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 1071.0,
+        "page": 11
+      },
+      "female": {
+        "v": 50.05,
+        "page": 9
+      },
+      "bachelor": {
+        "v": 93.55,
+        "page": 9
+      },
+      "founder_now": {
+        "v": 41.5,
+        "page": 11
+      },
+      "founder5": {
+        "v": 53.3,
+        "page": 11
+      },
+      "nascent": {
+        "v": 33.71,
+        "page": 18
+      },
+      "active": {
+        "v": 23.62,
+        "page": 20
+      },
+      "active_registered": {
+        "v": 52.17,
+        "page": 20
+      },
+      "active_solo": {
+        "v": 41.5,
+        "page": 20
+      },
+      "nascent_during": {
+        "v": 58.72,
+        "page": 18
+      },
+      "gap": {
+        "v": 11.8,
+        "page": 11,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "indonesia-2025-en",
+        "country": "INDONESIA",
+        "survey_year": 2025,
+        "release": "2026-05-07",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Indonesia.pdf",
+        "file": "reports/indonesia-2025-en.pdf",
+        "bytes": 1129664,
+        "pages": 26,
+        "sha256": "e6d3510ee8a8cf9f88a0aba45d324322b60285ab3d2e4e2b1dc2c03efeb83252"
+      }
+    ],
+    "main": {
+      "id": "indonesia-2025-en",
+      "country": "INDONESIA",
+      "survey_year": 2025,
+      "release": "2026-05-07",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Indonesia.pdf",
+      "file": "reports/indonesia-2025-en.pdf",
+      "bytes": 1129664,
+      "pages": 26,
+      "sha256": "e6d3510ee8a8cf9f88a0aba45d324322b60285ab3d2e4e2b1dc2c03efeb83252"
+    },
+    "notes": "У вступному підсумку N=1060, але таблиці на с. 8, 9, 11 використовують N=1071; тут обрано базу детальних таблиць. Частка жінок 50,05% із таблиці суперечить 60,60% у супровідному тексті. Дані перенесено з таблиці."
+  },
+  {
+    "id": "switzerland",
+    "name": "Швейцарія",
+    "iso": "CHE",
+    "region": "Європа",
+    "center": [
+      8.2,
+      46.8
+    ],
+    "year": 2025,
+    "metrics": {
+      "sample": {
+        "v": 4082.0,
+        "page": 25
+      },
+      "female": {
+        "v": 59.1,
+        "page": 25
+      },
+      "founder_now": {
+        "v": 5.9,
+        "page": 6
+      },
+      "founder5": {
+        "v": 20.2,
+        "page": 6
+      },
+      "nascent": {
+        "v": 7.74,
+        "page": 9,
+        "calculation": "(287 + 29) / 4082 × 100"
+      },
+      "active": {
+        "v": 2.82,
+        "page": 9,
+        "calculation": "(86 + 29) / 4082 × 100"
+      },
+      "no_course": {
+        "v": 71.4,
+        "page": 4
+      },
+      "gap": {
+        "v": 14.3,
+        "page": 6,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "switzerland-2025-de",
+        "country": "SWITZERLAND",
+        "survey_year": 2025,
+        "release": "2026-04-30",
+        "language": "de",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Schweiz_de.pdf",
+        "file": "reports/switzerland-2025-de.pdf",
+        "bytes": 397539,
+        "pages": 26,
+        "sha256": "a61669fc3e636dcc860df453347b0eacd4b9218b03fd8cfe6b1f4232a16d10c6"
+      },
+      {
+        "id": "switzerland-2025-fr",
+        "country": "SWITZERLAND",
+        "survey_year": 2025,
+        "release": "2026-07-30",
+        "language": "fr",
+        "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Suisse_fr.pdf",
+        "file": "reports/switzerland-2025-fr.pdf",
+        "bytes": 1194714,
+        "pages": 26,
+        "sha256": "f8991cb847daa7331bc5906e25a60b67806dcf7f5d1ece3a1b9fa2158c2c533b"
+      }
+    ],
+    "main": {
+      "id": "switzerland-2025-de",
+      "country": "SWITZERLAND",
+      "survey_year": 2025,
+      "release": "2026-04-30",
+      "language": "de",
+      "url": "https://www.guesssurvey.org/resources/nat_2025/GUESSS_Report_2025_Schweiz_de.pdf",
+      "file": "reports/switzerland-2025-de.pdf",
+      "bytes": 397539,
+      "pages": 26,
+      "sha256": "a61669fc3e636dcc860df453347b0eacd4b9218b03fd8cfe6b1f4232a16d10c6"
+    },
+    "notes": "На с. 9 статуси подано окремо: 7,0% лише створюють, 2,1% лише керують, 0,7% роблять обидва. Для зіставлення тут обчислено включні частки за кількістю: nascent=(287+29)/4082; active=(86+29)/4082. Значення можуть відрізнятися від короткого підсумку звіту."
+  },
+  {
+    "id": "lithuania",
+    "name": "Литва",
+    "iso": "LTU",
+    "region": "Європа",
+    "center": [
+      24,
+      55.2
+    ],
+    "year": 2023,
+    "metrics": {
+      "sample": {
+        "v": 2448.0,
+        "page": 5
+      },
+      "institutions": {
+        "v": 29.0,
+        "page": 5
+      },
+      "female": {
+        "v": 62.7,
+        "page": 9
+      },
+      "bachelor": {
+        "v": 84.6,
+        "page": 10
+      },
+      "founder_now": {
+        "v": 20.3,
+        "page": 12
+      },
+      "founder5": {
+        "v": 44.2,
+        "page": 12
+      },
+      "no_course": {
+        "v": 59.4,
+        "page": 26
+      },
+      "elective": {
+        "v": 12.2,
+        "page": 26
+      },
+      "compulsory": {
+        "v": 19.2,
+        "page": 26
+      },
+      "program": {
+        "v": 9.2,
+        "page": 26
+      },
+      "nascent_during": {
+        "v": 28.1,
+        "page": 46
+      },
+      "nascent": {
+        "v": 15.28,
+        "page": 46,
+        "calculation": "374 / 2448 × 100"
+      },
+      "active": {
+        "v": 13.03,
+        "page": 40,
+        "calculation": "319 / 2448 × 100"
+      },
+      "gap": {
+        "v": 23.9,
+        "page": 12,
+        "calculation": "Намір через 5 років − намір одразу; процентні пункти"
+      }
+    },
+    "files": [
+      {
+        "id": "lithuania-2023-en",
+        "country": "LITHUANIA",
+        "survey_year": 2023,
+        "release": "2026-09-30",
+        "language": "en",
+        "url": "https://www.guesssurvey.org/resources/nat_2023/GUESSS_Report_2023_Lithuania_en.pdf",
+        "file": "reports/lithuania-2023-en.pdf",
+        "bytes": 833213,
+        "pages": 58,
+        "sha256": "5d1f32d293350dea526f1237bcfe441660208cbd98070410e90fc8c1cc1c52da"
+      }
+    ],
+    "main": {
+      "id": "lithuania-2023-en",
+      "country": "LITHUANIA",
+      "survey_year": 2023,
+      "release": "2026-09-30",
+      "language": "en",
+      "url": "https://www.guesssurvey.org/resources/nat_2023/GUESSS_Report_2023_Lithuania_en.pdf",
+      "file": "reports/lithuania-2023-en.pdf",
+      "bytes": 833213,
+      "pages": 58,
+      "sha256": "5d1f32d293350dea526f1237bcfe441660208cbd98070410e90fc8c1cc1c52da"
+    },
+    "notes": "Опитування 2023 року, хоча звіт опубліковано у 2026. Визначення підприємницьких статусів попередньої хвилі відрізняються від 2025. Розраховані частки: nascent=374/2448; active=319/2448. За замовчуванням ця хвиля відфільтрована."
+  }
+]
